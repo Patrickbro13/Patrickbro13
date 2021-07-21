@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Facial expression recognition**
 
-- 🌱 I’m currently learning : **statistics**
+- 🌱 I’m currently learning : **statistics and GANs**
 
 - 📫 Reach me at : **pathik.g@somaiya.edu**
 
