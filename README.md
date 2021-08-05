@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pathikghugare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pathikghugare" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pathikghugare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathikghugare" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pathik-ghugare-4b7b60191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathikghugare" height="30" width="40" /></a>
 <a href="https://kaggle.com/pathikghugare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pathikghugare" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pathik_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pathik_g" height="30" width="40" /></a>
 </p>
