@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Image Segmentation**
 
-- 📫 How to reach me **pathik.g@somaiya.edu**
+- 📫 Reach me at **pathik.g@somaiya.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
