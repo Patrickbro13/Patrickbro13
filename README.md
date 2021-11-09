@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pathik Ghugare</h1>
 <h3 align="center">Passionate student who loves working with the data and building Machine/Deep learning models</h3>
 
-- 🔭 I’m currently working on **Facial expression recognition**
+- 🔭 I’m currently working on **How to solve climate change problem with AI/ML**
 
-- 🌱 I’m currently learning **Image Segmentation**
+- 🌱 I’m currently learning **GANs**
 
 - 📫 Reach me at **pathik.g@somaiya.edu**
 
