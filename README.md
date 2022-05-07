@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pathik Ghugare</h1>
-<h3 align="center">I love working with the data whether it is finding insights or doing predictions </h3>
+<h3 align="center">I love working with the data to find insights and doing predictions </h3>
 
 - 🔭 I’m currently working on **Brain MRI Segmentation**
 
