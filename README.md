@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pathik Ghugare</h1>
-<h3 align="center">I just love working with the data </h3>
+<h3 align="center">I love working with the data </h3>
 
-- 🔭 I’m currently working on **Brain MRI Segmentation**
+- 🔭 I’m currently working as Machine Learning intern at **[TeaminUp](https://github.com/teaminup)**
 
-- 🌱 I’m currently learning **GANs**
+- 🌱 I’m currently learning **MLOps**
 
 - 📫 Reach me at **pathik.g@somaiya.edu**
 
