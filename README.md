@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pathik Ghugare</h1>
 <h3 align="center">I love working with the data </h3>
 
-- 🔭 I’m currently working as Machine Learning intern at **[TeaminUp](https://github.com/teaminup)**
+- 🔭 I’m currently working looking for internships in Machine learning and Data related domain
 
 - 🌱 I’m currently learning **MLOps**
 
-- 📫 Reach me at **pathik.g@somaiya.edu**
+- 📫 Reach me at **pathikghugare13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
