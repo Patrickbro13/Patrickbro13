@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Deep Learning intern at [@Pibit.ai](https://github.com/pibit-ai)
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Language models in NLP**
 
 - 📫 Reach me at **pathikghugare13@gmail.com**
 
